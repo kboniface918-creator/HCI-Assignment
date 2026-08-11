@@ -102,7 +102,7 @@ Allow a student to check the current status of an existing hostel booking and it
 ```text
 Home
   ↓
-My Bookings
+Bookings
   ↓
 Select Booking
   ↓
@@ -114,7 +114,7 @@ View Payment Status
 ### Description
 
 1. The student starts from the Home screen.
-2. The student opens My Bookings.
+2. The student opens Bookings.
 3. The student selects the relevant booking.
 4. The application displays the booking status.
 5. The student views the associated payment status.
@@ -139,4 +139,4 @@ The student can clearly determine the current status of their hostel booking and
 |---|---|
 | Find a hostel | Search, filtering, hostel listing, hostel details |
 | Book a room | Room availability, room comparison, room selection, booking confirmation, payment |
-| Check booking status | My Bookings, booking status, payment status |
+| Check booking status | Bookings, booking status, payment status |

@@ -86,7 +86,7 @@ Allow a user to view an existing booking and check its payment status.
 User Flow
 Home
   ↓
-My Bookings
+Bookings
   ↓
 Booking Details
   ↓
