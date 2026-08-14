@@ -1,3 +1,278 @@
+# Student Hostel Booking System
+
+## Member 4 – UI/UX Wireframe Design
+
+### 1. Member Role
+
+**Role:** UI/UX Wireframe Designer
+**Member:** Member 4
+**Tool Used:** Balsamiq Wireframes
+
+### 2. Contribution
+
+Member 4 was responsible for designing the mobile application wireframes for the Student Hostel Booking System using Balsamiq. The wireframes were designed to provide a clear, simple and user-friendly interface for students searching for hostels, comparing rooms, selecting accommodation, making bookings and viewing booking information.
+
+The work focused on:
+
+* Designing the main mobile application screens.
+* Establishing a consistent visual layout.
+* Designing navigation between major application sections.
+* Creating forms, buttons, cards, tables, dropdowns and other UI components.
+* Designing the hostel and room comparison interface.
+* Designing the booking and payment flow.
+* Applying basic HCI principles such as consistency, visibility, feedback and error prevention.
+* Preparing the wireframes for interactive linking and usability testing.
+
+---
+
+## 3. Balsamiq Screens Designed
+
+A total of **14 screens** were designed:
+
+| No. | Screen               | Purpose                                            |
+| --- | -------------------- | -------------------------------------------------- |
+| 1   | Splash Screen        | Introduces the Hostel Booking application          |
+| 2   | Login                | Allows registered students to access the system    |
+| 3   | Registration         | Allows new students to create accounts             |
+| 4   | Home Dashboard       | Provides access to the main hostel services        |
+| 5   | Search & Filter      | Allows students to search and filter hostels       |
+| 6   | Hostel Listings      | Displays available hostels                         |
+| 7   | Hostel Details       | Shows detailed information about a selected hostel |
+| 8   | Room Comparison      | Allows students to compare different rooms         |
+| 9   | Room Selection       | Allows students to select an available room        |
+| 10  | Booking Details      | Allows students to review booking information      |
+| 11  | Payment              | Provides the proposed payment interface            |
+| 12  | Booking Confirmation | Confirms successful booking and payment            |
+| 13  | My Bookings          | Displays booking and payment status                |
+| 14  | Profile              | Displays student account information and settings  |
+
+---
+
+## 4. Main UI Elements Used
+
+The following Balsamiq components were used throughout the wireframes:
+
+* Buttons
+* Text fields
+* Search fields
+* Dropdown/Combo Box controls
+* Checkboxes
+* Radio buttons
+* Tables
+* Cards/Panels
+* Image placeholders
+* Icons
+* Navigation bars
+* Labels and headings
+* Dividers
+* Links
+* Confirmation and warning messages
+
+---
+
+## 5. Important UI Features
+
+### Hostel Search
+
+The search interface allows students to search for accommodation using criteria such as:
+
+* Hostel name
+* Location
+* Price range
+* Room type
+* Availability
+* Facilities
+
+### Hostel Listings
+
+Each hostel listing provides important information including:
+
+* Hostel name
+* Location
+* Monthly price
+* Rating
+* Number of available rooms
+* Hostel image
+* View Details action
+
+### Room Comparison
+
+The room comparison interface allows students to compare:
+
+* Room type
+* Price
+* Capacity
+* Bathroom type
+* Wi-Fi availability
+* Study desk
+* Wardrobe
+* Laundry
+* Security
+* Room availability
+
+Three room options were included in the comparison:
+
+* Room A – Double
+* Room B – Single
+* Room C – Shared
+
+### Booking
+
+The booking flow allows the student to:
+
+1. Select a hostel.
+2. View available rooms.
+3. Compare rooms.
+4. Select a room.
+5. Review booking details.
+6. Proceed to payment.
+7. Receive booking confirmation.
+8. View booking and payment status.
+
+---
+
+## 6. Navigation Structure
+
+The main application flow was designed as follows:
+
+```text
+Splash
+   ↓
+Login
+   ↓
+Home
+   ↓
+Search
+   ↓
+Hostel Listings
+   ↓
+Hostel Details
+   ↓
+Room Comparison
+   ↓
+Room Selection
+   ↓
+Booking Details
+   ↓
+Payment
+   ↓
+Booking Confirmation
+   ↓
+My Bookings
+```
+
+Additional navigation paths were provided through the application's bottom navigation:
+
+```text
+Home | Explore | Bookings | Profile
+```
+
+---
+
+## 7. HCI Considerations
+
+The following HCI principles were considered during the wireframe design:
+
+### Consistency
+
+Similar buttons, navigation elements, labels and layouts were kept consistent across the application.
+
+### Visibility of System Status
+
+Important actions such as payment and booking include confirmation information so that the user understands what has happened.
+
+### Error Prevention
+
+The booking details screen allows users to review their hostel, room, duration and total cost before proceeding to payment.
+
+### Clear Navigation
+
+The application uses a simple navigation structure with clear labels and familiar icons.
+
+### Touch-Friendly Interaction
+
+Buttons and interactive controls were designed with sufficient size and spacing for mobile interaction.
+
+### Clear Information
+
+Important information such as room prices, availability, hostel location and booking status is displayed clearly.
+
+---
+
+## 8. Three Main User Interaction Scenarios
+
+The wireframes support the following interaction scenarios:
+
+### Scenario 1 – Search and Book a Hostel
+
+```text
+Home
+ ↓
+Search
+ ↓
+Hostel Listings
+ ↓
+Hostel Details
+ ↓
+Room Selection
+ ↓
+Booking Details
+ ↓
+Payment
+ ↓
+Confirmation
+```
+
+### Scenario 2 – Compare Rooms
+
+```text
+Home
+ ↓
+Hostel Listings
+ ↓
+Hostel Details
+ ↓
+Room Comparison
+ ↓
+Room Selection
+```
+
+### Scenario 3 – Check Booking Status
+
+```text
+Home
+ ↓
+My Bookings
+ ↓
+Booking Details
+ ↓
+Booking Status
+ ↓
+Payment Status
+```
+
+---
+
+## 9. Handover to Member 5
+
+After completing the wireframes, the Balsamiq project was prepared for Member 5 to continue with prototype linking and interaction design.
+
+Member 5 will:
+
+* Link the screens together.
+* Connect buttons and navigation elements.
+* Test the three interaction scenarios.
+* Check for broken navigation.
+* Review the prototype for usability and HCI issues.
+
+---
+
+
+## 13. Conclusion
+
+Member 4's contribution established the visual and structural foundation of the Student Hostel Booking System. The 14 Balsamiq wireframes cover the complete hostel discovery and booking process, including searching, filtering, hostel viewing, room comparison, room selection, booking, payment, confirmation and booking status. The wireframes were designed with usability, consistency, clear navigation and mobile interaction in mind and were prepared for prototype linking and usability testing.  
+
+
 Member 5 — Prototype Linking + HCI
 Overview
 
