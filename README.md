@@ -1,6 +1,183 @@
 # Student Hostel Booking System
 
-## Member 4 – UI/UX Wireframe Design
+
+**Role:** Member 3  
+**Area of Contribution:** Requirements Analysis, User Journey and Task Flows
+
+This README documents my individual contribution to the HCI group project for the Student Hostel Booking Mobile Application.
+
+---
+
+## My Responsibilities as Member 3
+
+As **Member 3**, my contribution focused on analysing the requirements of the proposed system and documenting how students would interact with the hostel booking application.
+
+I worked on the following three project documents:
+
+- `requirements.md`
+- `user-journey.md`
+- `task-flows.md`
+
+---
+
+## 1. Requirements Analysis
+
+I developed the functional and mobile usability requirements for the Student Hostel Booking Mobile Application.
+
+### Functional Requirements
+
+The requirements cover the main functions that students need when using the application, including:
+
+- Student registration
+- Student login
+- Viewing available hostels
+- Searching for hostels
+- Filtering hostel options
+- Viewing hostel details
+- Viewing room types
+- Viewing room prices
+- Checking room availability
+- Comparing accommodation options
+- Selecting a room
+- Reviewing booking details
+- Confirming a booking
+- Payment interaction
+- Viewing payment status
+- Viewing booking status
+- Receiving booking confirmation
+
+### Usability Requirements
+
+I also documented usability requirements to ensure that the application is easy and comfortable for students to use.
+
+These include:
+
+- Simple navigation
+- Clear buttons
+- Touch-friendly controls
+- Consistent design
+- Clear feedback
+- Error prevention
+- Easy-to-read information
+- A simple booking process
+- Clear booking and payment status
+- Accessible hostel information
+
+---
+
+## 2. User Journey
+
+I developed the user journey to represent the student's experience when using the hostel booking application.
+
+The journey covers:
+
+1. Open the application
+2. Login or register
+3. Access the home screen
+4. Browse hostels
+5. Search and filter hostels
+6. Select a hostel
+7. Review hostel information
+8. Compare room options
+9. Select a room
+10. Review booking details
+11. Confirm the booking
+12. Proceed to payment
+13. Receive booking confirmation
+14. Check booking and payment status
+
+The user journey was created from the student's perspective to show the sequence of interactions throughout the booking process.
+
+---
+
+## 3. Task Flows
+
+I developed three major task flows for the application.
+
+### Task Flow 1 — Find a Hostel
+
+**Goal:** Allow a student to find a suitable hostel and view its details.
+
+**Flow:**
+
+`Home → Search Hostels → Enter Search Criteria → Apply Filters → View Hostel List → Select Hostel → View Hostel Details`
+
+**Expected Outcome:**  
+The student successfully finds a suitable hostel and can view its rooms, prices, photographs, location and facilities.
+
+---
+
+### Task Flow 2 — Book a Room
+
+**Goal:** Allow a student to select and confirm a suitable hostel room.
+
+**Flow:**
+
+`Hostel Details → View Available Rooms → Compare Rooms → Select Preferred Room → Review Booking Details → Confirm Booking → Payment → Booking Confirmation`
+
+**Expected Outcome:**  
+The student successfully selects a room, confirms the booking and receives booking confirmation.
+
+---
+
+### Task Flow 3 — Check Booking Status
+
+**Goal:** Allow a student to check the status of an existing hostel booking and its payment status.
+
+**Flow:**
+
+`Home → My Bookings → Select Booking → View Booking Status → View Payment Status`
+
+**Expected Outcome:**  
+The student can clearly determine the current status of their hostel booking and payment.
+
+---
+
+## 4. HCI Focus
+
+My contribution as Member 3 focused on the user's interaction with the proposed system.
+
+The work helped to:
+
+- Identify what students need from the application
+- Define the functions required by the system
+- Represent the student's complete interaction journey
+- Break major activities into clear task flows
+- Identify mobile usability requirements
+- Provide a basis for the interface and interaction design
+
+---
+
+## 5. Files Contributed
+
+| File | My Contribution |
+|---|---|
+| `requirements.md` | Functional and mobile usability requirements |
+| `user-journey.md` | Student user journey |
+| `task-flows.md` | Three major task flows |
+
+---
+
+## 6. Project Scope
+
+The work supports the proposed hostel booking prototype.
+
+The prototype does not include:
+
+- Real payment gateway integration
+- Actual hostel management operations
+- University database integration
+- Real-time room allocation
+- GPS navigation
+- Full system development and deployment
+
+---
+
+## 7. Conclusion
+
+As **Member 3**, my contribution focused on requirements analysis and interaction design documentation. The three documents I developed — requirements, user journey and task flows — define what the application should do and describe how a student is expected to interact with the system.
+
+These documents provide a foundation for designing a clear, usable and user-centred hostel booking application.## Member 4 – UI/UX Wireframe Design
 
 ### 1. Member Role
 
