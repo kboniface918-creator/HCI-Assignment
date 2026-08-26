@@ -1,14 +1,75 @@
 # Student Hostel Booking System
 
+# Member 1 – Requirements & User Research
 
-**Role:** Member 3  
-**Area of Contribution:** Requirements Analysis, User Journey and Task Flows
+## Role
+Requirements Analyst & User Researcher
 
-This README documents my individual contribution to the HCI group project for the Student Hostel Booking Mobile Application.
+## Responsibilities
+- Identify the target users of the Student Hostel Booking System.
+- Identify student needs and problems when searching for accommodation.
+- Gather functional and non-functional requirements.
+- Prepare user personas.
+- Identify the main tasks students need to perform in the system.
+- Document the requirements for the development team.
+
+## Main Deliverables
+- User personas
+- User requirements
+- Functional requirements
+- Non-functional requirements
+- Task analysis
+- Requirements documentation
+
+## Main User Requirements
+Students should be able to:
+- Register and log in.
+- Search for hostels.
+- Filter available hostels.
+- View hostel and room information.
+- Compare rooms.
+- Select a room.
+- Make a booking.
+- Make/confirm payment.
+- View booking and payment status.
+---
 
 ---
 
-## My Responsibilities as Member 3
+ Member 2 – User Personas & Task Analysis
+
+## Role
+UX Researcher & Task Analyst
+
+## Responsibilities
+- Develop representative student user personas.
+- Identify user goals, needs and frustrations.
+- Analyze the main tasks users perform when booking accommodation.
+- Create task flows for important user activities.
+- Provide recommendations to guide the interface design.
+
+## Main Task Flows
+
+### Task 1 – Find a Hostel
+Home → Search → Apply Filters → Hostel Listings → Hostel Details
+
+### Task 2 – Compare Rooms
+Hostel Details → Room Comparison → Select Room
+
+### Task 3 – Book a Room
+Room Selection → Booking Details → Payment → Confirmation
+
+### Task 4 – Check Booking
+Home → My Bookings → Booking Details → Payment Status
+
+## Main Deliverables
+- User personas
+- Task analysis
+- Task flows
+- User goals and pain points
+- UX recommendations
+
+
 
 As **Member 3**, my contribution focused on analysing the requirements of the proposed system and documenting how students would interact with the hostel booking application.
 
@@ -201,7 +262,6 @@ The work focused on:
 * Preparing the wireframes for interactive linking and usability testing.
 
 ---
-
 ## 3. Balsamiq Screens Designed
 
 A total of **14 screens** were designed:
@@ -312,7 +372,6 @@ The booking flow allows the student to:
 
 The main application flow was designed as follows:
 
-```text
 Splash
    ↓
 Login
@@ -336,7 +395,6 @@ Payment
 Booking Confirmation
    ↓
 My Bookings
-```
 
 Additional navigation paths were provided through the application's bottom navigation:
 
@@ -382,7 +440,6 @@ The wireframes support the following interaction scenarios:
 
 ### Scenario 1 – Search and Book a Hostel
 
-```text
 Home
  ↓
 Search
@@ -398,11 +455,11 @@ Booking Details
 Payment
  ↓
 Confirmation
-```
+
 
 ### Scenario 2 – Compare Rooms
 
-```text
+
 Home
  ↓
 Hostel Listings
@@ -412,11 +469,11 @@ Hostel Details
 Room Comparison
  ↓
 Room Selection
-```
+
 
 ### Scenario 3 – Check Booking Status
 
-```text
+
 Home
  ↓
 My Bookings
@@ -426,21 +483,8 @@ Booking Details
 Booking Status
  ↓
 Payment Status
-```
 
----
 
-## 9. Handover to Member 5
-
-After completing the wireframes, the Balsamiq project was prepared for Member 5 to continue with prototype linking and interaction design.
-
-Member 5 will:
-
-* Link the screens together.
-* Connect buttons and navigation elements.
-* Test the three interaction scenarios.
-* Check for broken navigation.
-* Review the prototype for usability and HCI issues.
 
 ---
 
@@ -577,3 +621,55 @@ Documents the three required interaction scenarios:
 Booking Accommodation
 Compare Accommodation
 Check Booking
+
+
+# Member 6 – Usability Testing & Evaluation
+
+
+# Member 6 – Usability Testing & Evaluation
+
+## Role
+Usability Tester & UX Evaluator
+
+## Responsibilities
+- Prepare the usability testing plan.
+- Test the prototype with at least 5 representative student users.
+- Give users realistic hostel-booking tasks.
+- Observe user interactions and difficulties.
+- Record task success, errors and user feedback.
+- Identify usability problems.
+- Recommend improvements.
+- Document changes made to the prototype based on testing.
+
+## Test Tasks
+
+### Task 1
+Find an available hostel using the search and filter functions.
+
+### Task 2
+Compare three available rooms and choose one.
+
+### Task 3
+Complete the hostel booking process.
+
+### Task 4
+Check the booking and payment status.
+
+## Main Deliverables
+- Usability test plan
+- Test tasks
+- User observations
+- Testing results
+- Usability problems
+- Improvement recommendations
+- Before-and-after prototype evidence
+
+## Testing Process
+
+Test → Observe → Record → Analyze → Identify Problems → Improve → Retest
+
+## Git Commit
+
+git add .
+git commit -m "Added usability testing results and prototype improvements"
+git push origin main
